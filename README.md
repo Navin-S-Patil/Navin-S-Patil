@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/navin_patil13" target="blank"><img src="https://img.shields.io/twitter/follow/navin_patil13?logo=twitter&style=for-the-badge" alt="navin_patil13" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on Data Structure and Algorithm
 
-- 💬 Ask me about **MEARN, Web, DSA**
+- 🌱 I’m currently learning **Flutter & Android**
+
+- 💬 Ask me about **MEARN, Web, DSA, Maths**
 
 - 📫 How to reach me **navinpatilwork@gmail.com**
 
