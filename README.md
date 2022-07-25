@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter & Android**
 
-- 💬 Ask me about **MEARN, Web, DSA, Maths**
+- 💬 Ask me about **MERN, Web, DSA, Maths**
 
 - 📫 How to reach me **navinpatilwork@gmail.com**
 
