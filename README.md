@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navin_patil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navin_patil13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navin-patil-33844b193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navin-patil-33844b193/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/navin-patil-33844b193/](https://www.linkedin.com/in/navinpatil13/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navin-patil-33844b193/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/navin-s-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/navin-s-patil" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_navin_patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_navin_patil/" height="30" width="40" /></a>
 </p>
